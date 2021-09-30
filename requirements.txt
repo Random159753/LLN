@@ -4,3 +4,4 @@ seaborn
 pandas
 black
 jupyter_contrib_nbextensions
+bokeh
