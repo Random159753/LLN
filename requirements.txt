@@ -2,7 +2,7 @@ numpy
 matplotlib
 seaborn
 pandas
-# black
+nb_black
 jupyter_contrib_nbextensions
 bokeh
 
